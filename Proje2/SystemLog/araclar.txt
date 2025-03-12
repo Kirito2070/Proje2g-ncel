@@ -1,0 +1,2 @@
+honda|& C:/Users/Vektorel/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Vektorel/Desktop/Proje2/araçlar.py
+Lamborghini|Huracan evo
